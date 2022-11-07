@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ohmoto-2020/ohmoto-2020/master/profile-summary-card-output/monokai/4-productive-time.svg)
-```
-
-    
